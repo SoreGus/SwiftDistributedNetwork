@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build artifacts
+*.dSYM
+*.dSYM.zip
+*.ipa
+*.app
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Credentials
+.netrc
+.env
+.env.*
